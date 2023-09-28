@@ -1,5 +1,5 @@
 This project calls a rest service and downloads and persists the home images of the first 100 homes returned by the service. The calls
-are paginated and 10 calls are made to donwload the images. There is also an option to pass the start and end pages as command line arguments to download
+are paginated and 10 calls are made to download the images. There is also an option to pass the start and end pages as command line arguments to download
 images for other page ranges.
 
 Pre-requistites:
