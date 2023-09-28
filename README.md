@@ -22,5 +22,5 @@ cd project
 ./gradlew clean build
 java  -jar build/libs/homevision-project-0.0.1-SNAPSHOT.jar 
 
-This can be also containarized by adding a Dockerfile. May need to change the System.exit() command and keet it running to check the images.
+This can be also containarized by adding a Dockerfile. May need to change the System.exit() command and keep it running to check the images.
 
