@@ -17,6 +17,8 @@ cd project
 
 In this case only 20 images from the first 2 pages will be downloaded.
 
+The downloaded images are saved in project/images/ folder
+
 You can also run  the app  as below
 cd project
 ./gradlew clean build
